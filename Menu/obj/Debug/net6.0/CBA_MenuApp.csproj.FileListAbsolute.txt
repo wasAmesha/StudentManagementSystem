@@ -1,0 +1,29 @@
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.exe
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.deps.json
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.runtimeconfig.json
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.dll
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.pdb
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.dll
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\refint\CBA_MenuApp.dll
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.pdb
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\ref\CBA_MenuApp.dll
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.exe
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.deps.json
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.runtimeconfig.json
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.dll
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\bin\Debug\net6.0\CBA_MenuApp.pdb
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.AssemblyInfoInputs.cache
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.AssemblyInfo.cs
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.csproj.CoreCompileInputs.cache
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.dll
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\refint\CBA_MenuApp.dll
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.pdb
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\CBA_MenuApp.genruntimeconfig.cache
+D:\3 sem\CBA_menu_Assignment_01\CBA_menu\Menu\obj\Debug\net6.0\ref\CBA_MenuApp.dll

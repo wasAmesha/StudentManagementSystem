@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVVOjeQKXGLNgPkxZo/XRrEKw9/eRfDJDEH2xO2jiFJQHvzq1qB5Vzoid7uN20XgPsORwMBbQxqjscHMsc5MMQ==",
+  "success": true,
+  "projectFilePath": "D:\\3 sem\\CBA_menu_Assignment_01\\CBA_menu\\Menu\\CBA_MenuApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
